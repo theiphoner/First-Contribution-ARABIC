@@ -1338,53 +1338,30 @@
     <!--// Thamer //-->
     <!-- IBRAHIM -->
     <tr>
-        <td align="center" width="600">
-        &nbsp;&nbsp
-            <a href="https://github.com/theiphoner">
-                <img src="https://avatars.githubusercontent.com/u/11415909?v=4&size=64" width="50">
-                <br>
-                <h2>Ibrahim Mohd</h2>
-            </a>
-            <br>            
-            <table>
-                <tr> 
-                    <!-- TWITTER -->
-                    <td>
-                        <a href="https://twitter.com/linux_rust">
-                            <img src="./images/twitter-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// TWITTER //-->
-                    <!-- LINKED IN -->
-                    <td>
-                        <a href="https://www.linkedin.com/in/ibrahim-m-almalki/">
-                            <img src="./images/linkedin-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// LINKED IN //-->
-                    <!-- YOUTUBE -->
-                    <td>
-                        <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ">
-                            <img src="./images/youtube-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// YOUTUBE //-->
-                    <!-- FACEBOOK -->
-                    <td>
-                        <a href="https://www.facebook.com/linux.plus.391/">
-                            <img src="./images/facebook-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// FACEBOOK //-->
-                    <!-- GITHUB -->
-                    <td>
-                        <a href="https://github.com/theiphoner">
-                            <img src="./images/github-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// GITHUB //-->
-                </tr>
-            </table>            
+        <td align="center" width="600" style="padding: 16px;">
+            <div style="display:inline-block; text-align:center; max-width:260px;">
+                <a href="https://github.com/theiphoner" aria-label="Open Ibrahim Mohd GitHub profile" style="text-decoration:none; color:inherit;">
+                    <img src="https://avatars.githubusercontent.com/u/11415909?v=4&size=64" alt="Avatar of Ibrahim Mohd" width="80" style="border-radius:50%; display:block; margin:0 auto 10px;">
+                    <h2 style="margin:0; font-size:1.1rem;">Ibrahim Mohd</h2>
+                </a>
+                <div role="navigation" aria-label="Social links for Ibrahim Mohd" style="margin-top:12px; display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+                    <a href="https://twitter.com/linux_rust" aria-label="Ibrahim Mohd on Twitter">
+                        <img src="./images/twitter-logo.png" alt="Twitter" width="30" style="display:block;">
+                    </a>
+                    <a href="https://www.linkedin.com/in/ibrahim-m-almalki/" aria-label="Ibrahim Mohd on LinkedIn">
+                        <img src="./images/linkedin-logo.png" alt="LinkedIn" width="30" style="display:block;">
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCjRxQhyzA8wLypJfq6P7opQ" aria-label="Ibrahim Mohd on YouTube">
+                        <img src="./images/youtube-logo.png" alt="YouTube" width="30" style="display:block;">
+                    </a>
+                    <a href="https://www.facebook.com/linux.plus.391/" aria-label="Ibrahim Mohd on Facebook">
+                        <img src="./images/facebook-logo.png" alt="Facebook" width="30" style="display:block;">
+                    </a>
+                    <a href="https://github.com/theiphoner" aria-label="Ibrahim Mohd on GitHub">
+                        <img src="./images/github-logo.png" alt="GitHub" width="30" style="display:block;">
+                    </a>
+                </div>
+            </div>
         </td>
     </tr>
     <!--// IBRAHIM //-->
